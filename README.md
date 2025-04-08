@@ -10,7 +10,7 @@ Chrome extension to download arXiv PDFs using the paper title as the filename.
 - No more `1234.56789.pdf` files!
 
 ## How to Install
-1. Clone this repo or download ZIP
+1. Download ZIP this repo
 2. Open `chrome://extensions` in Chrome
 3. Enable Developer Mode
 4. Click "Load unpacked" and select this folder
