@@ -19,12 +19,12 @@ Chrome extension to download arXiv PDFs using the paper title as the filename.
 
 
 ## 사용법 (Ko)
-1. 해당 깃허브 레포를 ZIP파일로 다운로드
+1. 해당 깃허브 레포를 ZIP파일로 다운로드 후 압축해제
 2. 크롬으로 chrome://extensions 에 접속
 3. 개발자모드 활성화 (우측 상단 터치바)
-4. "폴더 업로드" 클릭 후 다운받은 'arXiv-save-as-Title' 폴더 선택
+4. 좌상단 "압축해제된 확장 프로그램을 로드합니다." 클릭 후 다운받은 'arXiv-save-as-Title' 폴더 선택
 5. arXiv(https://arxiv.org/) 에서 다운받고 싶은 논문 링크 접속
-6. 오른쪽 상단 'Save PDF as Title' 버튼 클릭하여 논문 제목으로 저장된 pdf 파일을 즐기세요!! 우하하
+6. 오른쪽 상단 'Save PDF as Title' 버튼 클릭하여 논문 제목으로 저장된 pdf 파일을 즐기세요!!
 
 ## Learn More / 자세히 보기
 
